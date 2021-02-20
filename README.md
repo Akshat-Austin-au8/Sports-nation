@@ -16,7 +16,7 @@ For development, you will only need Node.js and a node global package installed 
 ## Project Installation
 ```
 $ git clone https://github.com/Akshat-Austin-au8/Sports-nation.git
-$ cd sports-nation
+$ cd Sports-nation
 ```
 **Run npm install**
 ```
