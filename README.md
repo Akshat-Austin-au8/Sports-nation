@@ -1,28 +1,16 @@
 # SPORTS-NATION
 
 ---
-
 A Frontend app which helps a user to see the information about the sports and random news.
-
 ---
-
 Project Website Link Hosted On Vercel - [SPORTS NATIONS](sports-news-portal.netlify.app)
-
 ---
-
 ## Developer
 **Akshat Austin**
-
 ---
-
 - Github-Link: [@Akshat-Austin](https://github.com/Akshat-Austin-au8)
 - Linkedin-Link: [@Akshat-Austin](https://www.linkedin.com/in/akshat-austin/)
-
 ---
-
-## working
-
-![final](https://github.com/lakshay-saini-au8/sports-nation/blob/master/final.gif)
 
 ## Requirements
 For development, you will only need Node.js and a node global package installed in your environement.
