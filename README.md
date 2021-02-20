@@ -1,5 +1,4 @@
-# SPORTS-NATION
-
+# SPORTsNATION
 ---
 A Frontend app which helps a user to see the information about the sports and random news.
 ---
@@ -17,7 +16,7 @@ For development, you will only need Node.js and a node global package installed 
 ---
 ## Project Installation
 ```
-$ git clone git@github.com:lakshay-saini-au8/sports-nation.git
+$ git clone https://github.com/Akshat-Austin-au8/Sports-nation.git
 $ cd sports-nation
 ```
 **Run npm install**
