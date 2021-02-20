@@ -3,7 +3,7 @@
 ---
 A Frontend app which helps a user to see the information about the sports and random news.
 ---
-Project Website Link Hosted On Vercel - [SPORTS NATIONS](sports-news-portal.netlify.app)
+Project Website Link Hosted On Netlify - [SPORTS NATIONS](https://sports-news-portal.netlify.app/)
 ---
 ## Developer
 **Akshat Austin**
